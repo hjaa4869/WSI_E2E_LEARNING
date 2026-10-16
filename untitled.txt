@@ -1,0 +1,8 @@
+level0下，panda数据集的切片所需时间1h12分钟
+
+level0下，panda数据集提取特征，每张slide都只要1.5s左右
+
+panda uni2 6万多s，相当于每张6s
+
+
+panda uni 26581s

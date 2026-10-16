@@ -1,0 +1,6 @@
+fold,train,val,test,output
+0,6793,1699,2123,autodl-tmp/WSI-finetuning-main/splits/nsclc/split_0.csv
+1,6793,1699,2123,autodl-tmp/WSI-finetuning-main/splits/nsclc/split_1.csv
+2,6793,1699,2123,autodl-tmp/WSI-finetuning-main/splits/nsclc/split_2.csv
+3,6793,1699,2123,autodl-tmp/WSI-finetuning-main/splits/nsclc/split_3.csv
+4,6793,1699,2123,autodl-tmp/WSI-finetuning-main/splits/nsclc/split_4.csv

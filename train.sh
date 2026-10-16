@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python -m train_stage_py.train_stage1_panda --exp_code '_panda_grade6withinst'
